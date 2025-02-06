@@ -1,4 +1,6 @@
 # Lorax
+I speak for the trees. I speak for the trees for the trees have no tongues.
+
 ## Problem Statement
 Deforestation is a major driver of climate change and biodiversity loss, with millions of trees lost each year. Traditional reforestation efforts struggle to keep pace due to high costs, labor shortages, and difficult terrain. A scalable, autonomous solution is needed to restore forests efficiently.
 
