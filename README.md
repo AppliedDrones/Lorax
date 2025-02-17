@@ -9,4 +9,5 @@ An autonomous quadcopter system designed for large-scale reforestation. Using ad
 
 ## Technologies Used
 Hardware – Retrofitting an existing agricultural drone with Nvidia computing units for onboard autonomy.
+
 Software – ROS2, Nvidia Isaac ROS Suite, C++.
